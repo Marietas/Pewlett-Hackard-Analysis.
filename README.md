@@ -39,14 +39,17 @@ Fig. 4 - Retiring Titles summary
 
 ![](https://github.com/Marietas/Pewlett-Hackard-Analysis./blob/main/retiring_titles.PNG)
 
-- Main takeaways for this part of the analysis:
-  - 90,398 employees will reach the retirement age soon. 
-  - Nearly a third of the retirees are Senior Engineers, while another third includes the rest of the Senior Staff. 
-  - The total number of Senior Engineers and Senior Staff employees represents an estimated 60% of the total population.  As a result, Pewlett Hackard should prioritize these two groups to transition to retirement and initiate the process to fill out the future vacancies strategically.
+Main takeaways for this part of the analysis:
+- 90,398 employees will reach the retirement age soon. 
+- Nearly a third of the retirees are Senior Engineers, while another third includes the rest of the Senior Staff. 
+- The total number of Senior Engineers and Senior Staff employees represents an estimated 60% of the total population.  As a result, Pewlett Hackard should prioritize these two groups to transition to retirement and initiate the process to fill out the future vacancies strategically.
 
 ### Mentorship Eligibility
 
-
+The most important takeaways based on the Date of Birth as required, along with the actual positions with no closure date, are:
+- 1,549 employees are eligible for the mentorship program.
+- There is a higher number of employees retiring than potential mentors. This indicates that the company will need to develop an effective program to reduce the significant gap between the retiring employees and the employees who qualify as mentors. 
+- There will not be managers born during 1965 who qualify for the mentorship program
 
 Fig. 5 Mentorship Eligibility table
 
