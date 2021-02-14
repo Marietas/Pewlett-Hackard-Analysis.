@@ -18,5 +18,9 @@ The following query codes were written to compile and filter the information req
 Fig. 2 - Query Code for deliverable 1
 
 ![](https://github.com/Marietas/Pewlett-Hackard-Analysis./blob/main/code%20deli-1.PNG)
+The output of the code above is the generation of  three different CSV dataset: (a) retirement_titles; (b) unique_titles, and (c) retiring_titles.
+
+- Mentorship Eligibility program for current employees born between January 1, 1965, and December 31, 1965
 
 
+The output of the code above is the generation of the Mentorship Eligibility dataset.
