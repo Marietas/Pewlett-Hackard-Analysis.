@@ -42,5 +42,6 @@ Fig. 4 - Retiring Titles summary
 - Main takeaways for this part of the analysis:
   - 90,398 employees will reach the retirement age soon. 
   - Nearly a third of the retirees are Senior Engineers, while another third includes the rest of the Senior Staff. 
-  - The total number of Senior Engineers and Senior Staff employees represents an estimated 60% of the total population.  As a result, Pewlett Hackard should prioritize these two groups to transition to retirement and initiate the process to fill out the future vacancies strategically
+  - The total number of Senior Engineers and Senior Staff employees represents an estimated 60% of the total population.  As a result, Pewlett Hackard should prioritize these two groups to transition to retirement and initiate the process to fill out the future vacancies strategically.
 
+### Mentorship Eligibility
