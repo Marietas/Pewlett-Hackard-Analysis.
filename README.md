@@ -22,5 +22,6 @@ The output of the code above is the generation of  three different CSV dataset: 
 
 - Mentorship Eligibility program for current employees born between January 1, 1965, and December 31, 1965
 
-
+Fig. 3 - Query Code for deliverable 2
+![](https://github.com/Marietas/Pewlett-Hackard-Analysis./blob/main/code%20deli-2.PNG)
 The output of the code above is the generation of the Mentorship Eligibility dataset.
