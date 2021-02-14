@@ -11,4 +11,6 @@ Fig. 1 - Diagram Actual Storage Data
 
 ![](https://github.com/Marietas/Pewlett-Hackard-Analysis./blob/main/EmployeeDB.png)
 
+The following query codes were written to compile and filter the information required for the analysis based on the data available:
 
+- No. of retiring employees by title from January 1st, 1952 to December 31st, 1955
