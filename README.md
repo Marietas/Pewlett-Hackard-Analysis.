@@ -55,4 +55,14 @@ Fig. 5 Mentorship Eligibility table
 
 ![](https://github.com/Marietas/Pewlett-Hackard-Analysis./blob/main/mentorship_eligibility.PNG)
 
+## Summary
 
+After performing this analysis, it is essential to highlight the following observations:
+
+- The Pewlett Hackard company presents a significant number of future vacancies that will need to be filled out as soon as possible as  90,398 employees will reach retirement age in the next three years.  
+- Based on the workforce available, there will only be  1,549 employees qualified to mentor new employees as part of the retirement transition.  
+
+According to this, the company may not have enough seniors to tutor the next generation of workers, especially if we compare current potential mentors and retiring employees.  
+One of the strategies to minimize this effect is to create a query code that will provide the list of retiring individuals at the end of the current year (and for each subsequent year). The company will use this information to determine the vacancies required to be filled out due to the upcoming retirements.  
+
+In addition to the previous strategy, the developer could provide an additional query code to compare the number of retiring positions vs. eligible mentors per job title. In this way, the company will plan the workforce required for the mentorship program. 
