@@ -34,3 +34,9 @@ The output of the code above is the generation of the Mentorship Eligibility dat
 Based on the data generated on retiring_titles, which represent the number of employees per title born between 1952 and 1955. 
 
 The results are presented below:
+
+Fig. 4 - Retiring Titles summary
+
+![](https://github.com/Marietas/Pewlett-Hackard-Analysis./blob/main/retiring_titles.PNG)
+
+
