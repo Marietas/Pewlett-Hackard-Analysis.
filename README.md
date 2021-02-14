@@ -45,3 +45,11 @@ Fig. 4 - Retiring Titles summary
   - The total number of Senior Engineers and Senior Staff employees represents an estimated 60% of the total population.  As a result, Pewlett Hackard should prioritize these two groups to transition to retirement and initiate the process to fill out the future vacancies strategically.
 
 ### Mentorship Eligibility
+
+
+
+Fig. 5 Mentorship Eligibility table
+
+![](https://github.com/Marietas/Pewlett-Hackard-Analysis./blob/main/mentorship_eligibility.PNG)
+
+
